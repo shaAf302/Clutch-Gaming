@@ -4,7 +4,7 @@ A front-end gaming project which contains certain information and collection abo
 
 This frontEnd website contains 4 pages.
 
-1: Homepage 2:About Us 3: Services 4: Contact Us
+1: Homepage 2:About Us 3: Services 4: Contact Us.
 
 #Features
 
